@@ -3,10 +3,11 @@
 Senior Software Engineer based in Austin, TX with 8+ years building scalable 
 cloud-native microservices and modern web applications.
 
-🔧 **Backend:** Java, Spring Boot, Kotlin, Kafka, Rest, Microservices
-☁️ **Cloud:** AWS, Docker, Kubernetes
-🌐 **Frontend:** React, Next.js, TypeScript, Vue, Nuxt.js
-📊 **Data:** Snowflake, PostgreSQL, Redis, Oracle, Mysql
+- 🔧 **Backend:** Java, Spring Boot, Kotlin, Kafka, Rest, Microservices 
+- ☁️ **Cloud:** AWS, Docker, Kubernetes
+- 🌐 **Frontend:** React, Next.js, TypeScript, Vue, Nuxt.js
+- 📊 **Data:** Snowflake, PostgreSQL, Redis, Oracle, Mysql
+- 📊 **Observability:** Grafana, Promotheus, Micro Meter
 
 Currently working on upskilling and building Gen AI capable apps. Open to connecting!
 
